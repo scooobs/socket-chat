@@ -1,0 +1,7 @@
+HEADERS = {
+    "NAME_PROMPT": -1,
+    "NAME_SUCCESS": -2,
+
+    "CLIENT_QUIT": -9,
+    "CLIENT_REQUEST_NEW_NAME": -10,
+}
